@@ -3,10 +3,11 @@
 </p>
 
 Od fanoušků, pro fanoušky.
+Překlad není nikým sponzorován.
+Informace, jak autory finančně podpořit, naleznete na profilu překladu.
 
-Chcete nás finančně podpořit?
-Informace naleznete na [profilu překladu](https://prekladyher.eu/preklady/fallout-4.79/).
-
+* Profil překladu: https://prekladyher.eu/preklady/fallout-4.79/
+* Facebook: https://www.facebook.com/falloutczsk/
 
 ## Aktuální verze
 
@@ -15,12 +16,12 @@ Tato verze neobsahuje překlady dialogových titulků, které tvoří 2/3 všech
 Čeština je tak určena nedočkavým hráčům, kteří nechtějí čekat na finální verzi překladu.
 
 <p align="center">
-  <a href="../../releases/latest">
+  <a href="../../releases/download/20161104-f4cs-4d95208/20161104-f4cs-4d95208-noinfo.zip">
     <b>> Stáhnout nejnovější alfa verzi <</b>
   </a>
 </p>
 <p align="center">
-  Aktuální verze: TBD
+  Aktuální verze: 20161104-f4cs-4d95208
 </p>
 
 
