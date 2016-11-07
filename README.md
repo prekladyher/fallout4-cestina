@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="assets/project-logo.png" alt="Čeština pro Fallout 4" />
+<p align="center">                                                                                                                                                                                               
+  <img src="assets/project-logo.png" alt="Čeština pro Fallout 4" />                                                                                                                                              
 </p>
-
-Od fanoušků, pro fanoušky.
-Překlad není nikým sponzorován.
-Informace, jak autory finančně podpořit, naleznete na profilu překladu.
 
 * Profil překladu: https://prekladyher.eu/preklady/fallout-4.79/
 * Facebook: https://www.facebook.com/falloutczsk/
@@ -56,4 +52,10 @@ Následující chyby prosím nehlaste jako chyby překladu:
      Pokud si češtinu zprovozníte nad uloženou pozicí, nebudete mít tyto názvy přeložené.
      Pro přegenerování názvu je nutné předmět upravit na stanovišti úprav v dílně.
 * **Nepřeložené slovo MODS** v rozhraní pro úpravu předmětů
-    * Toto slovo bohužel nelze přeložit. Jde o chybu ve hře.
+    * Toto slovo bohužel nelze přeložit.
+      Jde o chybu ve hře.
+* **Nepřeložené statistiky v Pip-Boyovi**
+    * Statistiky *Levels Survived* a *Days Survived* nelze přeložit.
+      Jde o chybu ve hře.
+* **Nepřeložené perky při hraní s DLC**
+    * Hrajete-li s DLC, budete mít některé perky nepřeložené.
