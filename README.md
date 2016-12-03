@@ -51,6 +51,9 @@ Následující chyby prosím nehlaste jako chyby překladu:
    * Názvy zbraní a zbrojí se generují v momentě, kdy jsou přidány do herního světa.
      Pokud si češtinu zprovozníte nad uloženou pozicí, nebudete mít tyto názvy přeložené.
      Pro přegenerování názvu je nutné předmět upravit na stanovišti úprav v dílně.
+* **Chybné přívlastky určité kombinace úprav zbraní a zbrojí**
+   * Víme o *dlouhé hlavni* u gama zbraně a *reflexních mířidlech* u rotačního kulometu. 
+     V budoucnu zřejmě systém generovaných přívlastků  malinko upravíme.
 * **Nepřeložené slovo MODS** v rozhraní pro úpravu předmětů
     * Toto slovo bohužel nelze přeložit.
       Jde o chybu ve hře.
