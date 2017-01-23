@@ -12,12 +12,12 @@ Tato verze neobsahuje překlady dialogových titulků, které tvoří 2/3 všech
 Čeština je tak určena nedočkavým hráčům, kteří nechtějí čekat na finální verzi překladu.
 
 <p align="center">
-  <a href="../../releases/download/20161219-f4cs-a687fa4/20161219-f4cs-a687fa4-noinfo.zip">
+  <a href="../../releases/download/20170123-f4cs-eab4055/20170123-f4cs-eab4055-noinfo.zip">
     <b>> Stáhnout nejnovější alfa verzi <</b>
   </a>
 </p>
 <p align="center">
-  Aktuální verze: 20161219-f4cs-a687fa4
+  Aktuální verze: 20170123-f4cs-eab4055
 </p>
 
 
