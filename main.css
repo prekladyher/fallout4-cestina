@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background: url(images/background-artwork.jpg) no-repeat center center fixed;
+    background-size: cover;
+    background-color: black;
+}
+
+body {
+    min-height: 100vh;
+    position: relative;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+header {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 16px;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0, rgba(0, 0, 0, 0.3) 100px);
+}
+header img {
+    height: 50px;
+}
+header a {
+    position: relative;
+    color: white;
+    font-size: 18px;
+    padding: 0 16px;
+    text-transform: uppercase;
+    transition: color 0.2s linear;
+}
+header a:hover {
+    color: rgba(255, 200, 0, 1);
+    text-decoration: none;
+}
+header nav {
+    transform: translateY(-2px);
+}
+header nav a::before {
+    position: absolute;
+    display: block;
+    content: "";
+    background: rgba(255, 200, 0, 1);
+    height: 2px;
+    bottom: -2px;
+    left: 0;
+    right: 100%;
+    transition: right 0.2s linear;
+}
+header a.on::before {
+    right: 0;
+}
+
+@media (max-width: 600px) {
+    header {
+        padding: 8px;
+    }
+    header img {
+        height: 24px;
+    }
+}
+
